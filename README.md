@@ -15,4 +15,4 @@ justicee2.login("token")
 justicee1.on("ready", () => {justicee1.channels.cache.get(process.env.ses).join()})
 justicee2.on("ready", () => {justicee2.channels.cache.get(process.env.ses).join()})
 
-Bu şekilde ne kadar hesabınız varsa aktif edip sese sokabilirsiniz
+Bu şekilde ne kadar hesabınız varsa aktif edip sese sokabilirsiniz.
